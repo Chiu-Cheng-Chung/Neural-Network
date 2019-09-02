@@ -2,7 +2,7 @@
 
 # -*- coding: utf-8 -*-
 """
-@author: Chiu-Cheng-Chung
+@author: Chiu-Cheng-Chun
 
 *ATTENTION:
 1. You can use it at will, but please mark the source if you quote it for commercial use. Thanks~
